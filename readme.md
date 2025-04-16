@@ -9,8 +9,8 @@
 | Malha Municipal Digital e Áreas Territoriais 2023 | C:\Users\Andre\Desktop\projeto mapa\data\geo\BR_Municipios_2023 | Dados geográficos para a projeção, cruzamento dos dados e criação de mapas | [IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html) |
 
 ## Formato da Pesquisa no Data SUS
-![Screen](data\sus\mental_diseases_jan2024-dec2024\data_sus_search_params1.png)
-![Screen](data\sus\mental_diseases_jan2024-dec2024\data_sus_search_params2.png)
+![Screen](data/sus/mental_diseases_jan2024-dec2024/data_sus_search_params1.png)
+![Screen](data\sus/mental_diseases_jan2024-dec2024/data_sus_search_params2.png)
 
 
 
