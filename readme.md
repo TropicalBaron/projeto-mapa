@@ -10,7 +10,7 @@
 
 ## Formato da Pesquisa no Data SUS
 ![Screen](data/sus/mental_diseases_jan2024-dec2024/data_sus_search_params1.png)
-![Screen](data\sus/mental_diseases_jan2024-dec2024/data_sus_search_params2.png)
+![Screen](data/sus/mental_diseases_jan2024-dec2024/data_sus_search_params2.png)
 
 
 
