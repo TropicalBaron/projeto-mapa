@@ -3,3 +3,4 @@ data/generated/geo/*
 data/generated/mixed/*
 data/generated/sus/*
 !.gitkeep
+.vscode/
