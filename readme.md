@@ -19,7 +19,7 @@ _Trata-se de um projeto exploratório que busca melhor entender o fenômeno das 
 
 ### Rede Municipal Brasileira
 
-![Screen](/images/all_municipalities.png "Rede Municipal Brasileira")
+![Screen](images/all_municipalities.png "Rede Municipal Brasileira")
 
 **/arranging_geo_data.ipynb**
 
@@ -27,7 +27,7 @@ _Trata-se de um projeto exploratório que busca melhor entender o fenômeno das 
 
 ### Municipalidades Com e Sem Reportes
 
-![Screen](/images/municipalities_with_and_without_reports.png "Municipalities with and without reports")
+![Screen](images/municipalities_with_and_without_reports.png "Municipalities with and without reports")
 
 **/municipalities_with_and_without_reports.ipynb**
 
@@ -35,7 +35,7 @@ _Trata-se de um projeto exploratório que busca melhor entender o fenômeno das 
 
 ### Chorpleth de Número Absoluto de Internações por Municipalidade
 
-![Screen](/images/hospitalizations_choromap.png "Choromap das Internações Psiquiatricas")
+![Screen](images/hospitalizations_choromap.png "Choromap das Internações Psiquiatricas")
 
 **/municipalities_with_and_without_reports.ipynb**
 
@@ -43,7 +43,7 @@ _Trata-se de um projeto exploratório que busca melhor entender o fenômeno das 
 
 ### Choropleth: Internações por População por Municipalidade
 
-![Screen](/images/hospitalizations_by_pop.png "Hospitalization per municipality population")
+![Screen](images/hospitalizations_by_pop.png "Hospitalization per municipality population")
 
 **/choromap_hospitalizations_by_population.ipynb**
 
