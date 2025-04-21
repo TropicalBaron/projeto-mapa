@@ -23,18 +23,28 @@ _Trata-se de um projeto exploratório que busca melhor entender o fenômeno das 
 
 **/arranging_geo_data.ipynb**
 
+[File](/maps/municipalities_geometries.html)
+
 ### Municipalidades Com e Sem Reportes
 
 ![Screen](/images/municipalities_with_and_without_reports.png "Municipalities with and without reports")
 
 **/municipalities_with_and_without_reports.ipynb**
 
-### Choromap de Número Absoluto de Internações por Municipalidade
+[File](/maps/municipalities_with_and_without_reports_jan2024-dec2024.html)
+
+### Chorpleth de Número Absoluto de Internações por Municipalidade
 
 ![Screen](/images/hospitalizations_choromap.png "Choromap das Internações Psiquiatricas")
 
 **/municipalities_with_and_without_reports.ipynb**
 
+[File](/maps/choropleth_absolute_cases_jan2024-dec2024.html)
+
+### Choropleth: Internações por População por Municipalidade
+
 ![Screen](/images/hospitalizations_by_pop.png "Hospitalization per municipality population")
 
 **/choromap_hospitalizations_by_population.ipynb**
+
+[File](</maps/cases_by_municipality_pop_(jan2024-dez2024).html>)
