@@ -4,3 +4,4 @@ data/generated/mixed/*
 data/generated/sus/*
 !.gitkeep
 .vscode/
+.prettierignore

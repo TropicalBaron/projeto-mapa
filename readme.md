@@ -47,4 +47,4 @@ _Trata-se de um projeto exploratório que busca melhor entender o fenômeno das 
 
 **/choromap_hospitalizations_by_population.ipynb**
 
-[File](</maps/cases_by_municipality_pop_(jan2024-dez2024).html>)
+[File](/maps/cases_by_municipality_pop(jan2024-dez2024).html)
